@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\assets\\scripts\\game_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\assets\\scripts\\score_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\assets\\scripts\\coin_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\assets\\scripts\\car_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|c:\\users\\piray\\aa\\car2d\\car game 2d\\assets\\scripts\\car_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|c:\\users\\piray\\aa\\car2d\\car game 2d\\assets\\scripts\\road_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\road_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|c:\\users\\piray\\aa\\car2d\\car game 2d\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|c:\\users\\piray\\aa\\car2d\\car game 2d\\assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331D2062-FBBD-E69F-87C0-546056A90443}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Road_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Road_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Road_Movement.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Road_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Road_Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:17:55.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:17:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car_Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Car_Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car_Spawner.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Car_Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car_Spawner.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:16:24.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Game_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Controller.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Game_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Controller.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:21:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:11:05.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Car_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car_Movement.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Car_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car_Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:09:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin_Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Coin_Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin_Spawner.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Coin_Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin_Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:57:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Score_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Score_Manager.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Score_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Score_Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:55:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:17:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:16:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player_Movement.cs",
+              "DocumentMoniker": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Player_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Movement.cs",
+              "ToolTip": "C:\\Users\\piray\\aa\\car2d\\CAR GAME 2D\\Assets\\Scripts\\Player_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Movement.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAxwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:05:33.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
